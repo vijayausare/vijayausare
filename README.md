@@ -42,24 +42,6 @@
 
 ---
 
-### 💼 Featured Work
-
-* **🌍 EcoImpact** — Modernized a legacy ESG compliance platform into distributed Java 17/Spring Boot microservices; re-architected BOM-level rule evaluation with Kafka + Spring Batch for a **5x faster** non-compliance detection.
-* **🤖 Multi-Agent Bedrock RAG System** — Bedrock Super Agent orchestrating domain-specific KB agents, backed by Titan Embeddings and Redis HNSW vector search.
-* **✍️ ClearWrite AI** — Chrome extension for real-time text transformation, powered by Groq/Llama.
-
----
-
-### 🏆 Achievements & Education
-
-* **Competitive Programming:** Solved **800+ problems** across platforms.
-* **LeetCode:** Ranked **1500/22000** in a weekly contest.
-* **GeeksforGeeks:** Scored **164/175** in a coding competition.
-* **Recognition:** **High Five Award**, Prescient Technologies — for the EcoImpact modernization and delivery.
-* **Academic:** B.Tech in Electronics & Telecommunications from **Government College of Engineering, Karad** (CGPA: **8.82**).
-
----
-
 ### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
