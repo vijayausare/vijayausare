@@ -19,17 +19,6 @@
 </div>
 
 ---
-
-### 🚀 About Me
-I'm a **Software Engineer** who modernizes legacy systems into **scalable, distributed architectures** and builds **production-grade Agentic AI** on top of them. I've re-architected a live ESG compliance platform into Java 17 microservices and layered multi-agent RAG systems on AWS Bedrock over it.
-
-* 🌍 **Systems Modernizer:** Migrated a legacy monolith to distributed Java 17 / Spring Boot microservices for zero-downtime, high-volume compliance monitoring.
-* 🤖 **Agentic AI Builder:** Designing multi-agent orchestration (Bedrock Super Agent + domain KB agents) with Titan Embeddings and Redis HNSW vector search.
-* ⚡ **Streaming & Batch:** Re-architected BOM-level rule evaluation with Kafka real-time ingestion + Spring Batch, cutting non-compliance detection time by 5x.
-* 💡 **Goal:** Building backend systems that are correct under load, observable in production, and pleasant to extend.
-
----
-
 ### 🛠️ Tech Stack
 
 #### 🤖 Generative AI & Orchestration
